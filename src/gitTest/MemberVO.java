@@ -29,7 +29,5 @@ public class MemberVO {
 				+ getName() + ", getAge()=" + getAge() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode()
 				+ ", toString()=" + super.toString() + "]";
 	}
-	public int test23232{
-		return 0;
-	}
+	
 }
